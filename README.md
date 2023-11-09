@@ -1,0 +1,1 @@
+# amqp-client-ts-clean-code-sample
